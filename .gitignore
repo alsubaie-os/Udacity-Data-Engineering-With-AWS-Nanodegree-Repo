@@ -9,3 +9,4 @@ gen
 Data
 .ipynb_checkpoints
 __pycache__
+*.dwh
